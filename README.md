@@ -2,6 +2,12 @@
 
 EmoDex offers emotional text classification in 8 emotional categories. With our website we offer our model for classification for free: https://emodex.net 
 
+**New: We now offer an EmoDex API**
+
+## API
+
+A freemium API of EmoDex is now available on [RapidAPI](https://rapidapi.com/KarstenT/api/emodex-emotions-analysis/). Feel free to use the API for your research/product development.
+
 ## About this repository
 
 At the moment, we use this repository only to document our project and progress. 
@@ -14,9 +20,10 @@ At the moment, we use this repository only to document our project and progress.
 
 We are working on improving the performance of our model as well as offering additional NLP services and a public API. More to come.
 
-## API Keys
+## Private API Keys
 
-The website itself can be used for free. We also offer private API keys for classifying larger batches. Write to us about your project and project needs. You should state how much data you need to process, how often you need to request classifications and the overall business case. Please also state whether you use our services for research, commercial or other purposes.
+The website itself can be used for free. Free and paid API requests are now also available on [RapidAPI](https://rapidapi.com/KarstenT/api/emodex-emotions-analysis/). 
+We can also offer private API keys for classifying larger batches. Write to us about your project and project needs. You should state how much data you need to process, how often you need to request classifications and the overall business case. Please also state whether you use our services for research, commercial or other purposes.
 Write us at: contact.emodex@gmail.com 
 
 ## Data security
